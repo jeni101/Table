@@ -38,7 +38,7 @@ Neste projeto, exercitei os seguintes conhecimentos:
 ## 📁 Como usar
 
 # Clone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/jeni101/Table.git
 
 # Acesse a pasta:
 cd nome-do-repositorio
